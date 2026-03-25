@@ -1,0 +1,14 @@
+torch==2.8.0
+torchvision==0.23.0
+transformers==4.57.3
+deepspeed==0.17.1
+triton==3.4.0
+accelerate==1.12.0
+setuptools==80.9.0
+qwen-vl-utils==0.0.14
+torchcodec==0.7.0
+liger-kernel==0.7.0
+flashinfer-python==0.6.7
+flash_attn==2.8.3
+slyme==0.1.0rc2
+deepslyme==0.0.2rc2
